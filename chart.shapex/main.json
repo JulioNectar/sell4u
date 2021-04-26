@@ -1,0 +1,254 @@
+{
+  "shapes" : [
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-100.53697178508278, 820}\",\n  \"angle\" : 0,\n  \"size\" : \"{126.68985548577119, 24.885507327562191}\",\n  \"identifier\" : \"21A8204E-D814-41EE-B899-3B9C129BD30E\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"variant_1\",\n  \"value\" : \"Verify if owner\",\n  \"privateStyle\" : {\n    \"textAlignment\" : 2,\n    \"font\" : \"Helvetica,14.0\",\n    \"textColor\" : \"#B4B4B4FF\"\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-684.5431046957425, 530.5255083148445}\",\n  \"angle\" : 0,\n  \"size\" : \"{152.72727272727275, 29.999999999999996}\",\n  \"identifier\" : \"C9CBEF3D-8503-42BD-83A1-19EF17996F3A\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"variant_1\",\n  \"value\" : \"Manage my Ads\",\n  \"privateStyle\" : {\n    \"textAlignment\" : 2,\n    \"font\" : \"Helvetica,14.0\",\n    \"textColor\" : \"#B4B4B4FF\"\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-388.17933561295638, 545.5255083148445}\",\n  \"angle\" : 0,\n  \"size\" : \"{152.72727272727275, 29.999999999999996}\",\n  \"identifier\" : \"579A72EE-EDD9-444A-881D-F00824D24D0D\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"variant_1\",\n  \"value\" : \"List All Ads\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2\n  },\n  \"isRelative\" : false\n}",
+      "class" : "dia-node"
+    },
+    {
+      "attrs" : "{\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"advanced:triangle\",\n  \"position\" : \"{-506.18149307572463, 80.482414983612358}\",\n  \"angle\" : 0,\n  \"size\" : \"{199.08405862049756, 143.78293122591489}\",\n  \"identifier\" : \"D003159D-67E0-4264-97C4-C39CACB9EA44\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"variant_1\",\n  \"privateStyle\" : {\n\n  },\n  \"isRelative\" : false\n}",
+      "class" : "dia-node"
+    },
+    {
+      "attrs" : "{\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"advanced:triangle\",\n  \"position\" : \"{-500.65138033626636, 102.60286594144546}\",\n  \"angle\" : 0,\n  \"size\" : \"{188.02383314158101, 55.301127394582643}\",\n  \"identifier\" : \"596637C4-4CDA-46BA-B808-6F465A526322\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"variant_1\",\n  \"privateStyle\" : {\n\n  },\n  \"isRelative\" : false\n}",
+      "class" : "dia-node"
+    },
+    {
+      "attrs" : "{\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"text\",\n  \"position\" : \"{-489.03814358340401, 174.49433155440286}\",\n  \"angle\" : 0,\n  \"size\" : \"{164.79735963585631, 27.650563697291322}\",\n  \"identifier\" : \"1C3A32F5-7885-47C2-871C-FD857B43C235\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_11\",\n  \"value\" : \"iSell4u\",\n  \"privateStyle\" : {\n    \"textColor\" : \"#B4B4B4FF\",\n    \"textAlignment\" : 2,\n    \"textVerticalAlignment\" : 1,\n    \"font\" : \".AppleSystemUIFontThin,48.0\"\n  },\n  \"isRelative\" : false\n}",
+      "class" : "dia-node"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{333.5282785241875, 541.04778315613112}\",\n  \"angle\" : 0,\n  \"size\" : \"{140, 29.999999999999996}\",\n  \"identifier\" : \"FD7DA085-D68B-4A8D-B270-E017870F7CF5\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"variant_1\",\n  \"value\" : \"Manage Ads\",\n  \"privateStyle\" : {\n    \"textAlignment\" : 2,\n    \"font\" : \"Helvetica,14.0\",\n    \"textColor\" : \"#B4B4B4FF\"\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{333.5282785241875, 873.09790762400633}\",\n  \"angle\" : 0,\n  \"size\" : \"{140, 29.999999999999996}\",\n  \"identifier\" : \"95773D1E-2849-4204-A1B0-79C1769DDA8F\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"variant_1\",\n  \"value\" : \"Manage Ads\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2,\n    \"textColor\" : \"#B4B4B4FF\"\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-67.964250287628488, 63.324118281530389}\",\n  \"angle\" : 0,\n  \"size\" : \"{111.60772983270319, 223.96956594805974}\",\n  \"identifier\" : \"8DBED506-ADA5-4FE4-B4A4-B62F91667876\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_26\",\n  \"value\" : \"Login Screen\",\n  \"privateStyle\" : {\n    \"textAlignment\" : 2,\n    \"font\" : \"Helvetica,14.0\"\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-393.63623091721388, 488.46100909146594}\",\n  \"angle\" : 0,\n  \"size\" : \"{163.64106333578772, 264.10024893575007}\",\n  \"identifier\" : \"2F7E127D-608C-4282-9FB2-8B7A88BB1F3C\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_17\",\n  \"value\" : \"Home (Ads)\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-136.73407335244599, 478.14809614490855}\",\n  \"angle\" : 0,\n  \"size\" : \"{99.542029310248779, 199.75663989962084}\",\n  \"identifier\" : \"6B52711F-1851-40FB-AA5F-E50C003B13B7\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_17\",\n  \"value\" : \"Create Ad\",\n  \"privateStyle\" : {\n    \"textAlignment\" : 2,\n    \"font\" : \"Helvetica,14.0\"\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{-213.14038030129859, 613.54665631826265}\",\n  \"identifier\" : \"649EDEA3-1CBD-467B-8234-7DF0BA098B35\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{-0.24409862231182833, -0.22159747112704084}\"\n  },\n  \"sourcePoint\" : \"{-311.63227161851046, 685.5074836803941}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0.5, 0}\"\n  }\n}"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{-314.76585566316032, 718.61836442036508}\",\n  \"identifier\" : \"01B2B195-CC6C-4FF5-98A4-DC52A448C0ED\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0.4769153225806454, 0.15113904658319194}\"\n  },\n  \"sourcePoint\" : \"{-192.98471849477517, 733.1164475204057}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0.5}\"\n  }\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-161.37149585996679, 752.5612580272159}\",\n  \"angle\" : 0,\n  \"size\" : \"{124.17945181776959, 249.19795398565921}\",\n  \"identifier\" : \"06595F89-CC14-42DB-89EE-E2DCB9C6CF54\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_17\",\n  \"value\" : \"Chat w\\\/ Main Store\",\n  \"privateStyle\" : {\n    \"textAlignment\" : 2,\n    \"font\" : \"Helvetica,14.0\"\n  },\n  \"isRelative\" : false\n}",
+      "children" : "[\n  \"21A8204E-D814-41EE-B899-3B9C129BD30E\"\n]"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{-247.60243766863852, 854.52693100371528}\",\n  \"identifier\" : \"A9DAD048-CB5A-4964-BFCB-416663AD6155\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{-0.43102213541666667, -0.21225142045454543}\"\n  },\n  \"sourcePoint\" : \"{-379.50378629739072, 795.04529501542095}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0.5}\"\n  }\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{224.72850464928706, 63.32411828153036}\",\n  \"angle\" : 0,\n  \"size\" : \"{111.60772983270319, 223.96956594805974}\",\n  \"identifier\" : \"C32B1344-98CB-4861-98D1-4E471478BC2D\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_25\",\n  \"value\" : \"Register\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n    {\n      \"point\" : \"{280.53236956563865, 302.76923794812859}\",\n      \"axis\" : 2\n    },\n    {\n      \"point\" : \"{223.41722644948584, 318.24479166666708}\",\n      \"axis\" : 1\n    },\n    {\n      \"point\" : \"{166.30208333333303, 274.75198025180487}\",\n      \"axis\" : 2\n    },\n    {\n      \"point\" : \"{103.84898633439028, 231.25916883694259}\",\n      \"axis\" : 1\n    }\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{41.395889335447535, 231.25916883694259}\",\n  \"identifier\" : \"456376BF-DF61-4484-9A23-D9C6AA575F83\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0.47986169763513481, 0.24981192129629629}\"\n  },\n  \"sourcePoint\" : \"{280.53236956563865, 287.2936842295901}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0.5}\"\n  }\n}"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n    {\n      \"point\" : \"{74.750363704527444, 175.30890125556027}\",\n      \"axis\" : 1\n    },\n    {\n      \"point\" : \"{105.85724786398021, 144.12587003592552}\",\n      \"axis\" : 2\n    },\n    {\n      \"point\" : \"{166.91921250137167, 112.94283881629076}\",\n      \"axis\" : 1\n    },\n    {\n      \"point\" : \"{227.98117713876314, 127.68134533704813}\",\n      \"axis\" : 2\n    }\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{227.98117713876314, 142.4198518578055}\",\n  \"identifier\" : \"9E54D3BE-4425-4C3D-BEFF-FB81C1FD6BD8\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{-0.47085620777027043, -0.14684606481481483}\"\n  },\n  \"sourcePoint\" : \"{43.643479545074698, 175.30890125556027}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0.5, 0}\"\n  }\n}"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{-406.30443336672965, 791.63204555554705}\",\n  \"identifier\" : \"974DB65D-6CBE-4908-8735-B80CF18D038F\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{-0.19743663594470037, 0.48441976602292036}\"\n  },\n  \"sourcePoint\" : \"{-203.20329780049445, 1001.7592120128752}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0.5}\"\n  }\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-690, 470.52550831484444}\",\n  \"angle\" : 0,\n  \"size\" : \"{163.64106333578772, 264.10024893575007}\",\n  \"identifier\" : \"3ECAC33E-D19F-48D3-AB06-D30868DC92D2\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_17\",\n  \"value\" : \"My Ads (self)\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2,\n    \"textColor\" : \"#EEDD78FF\"\n  },\n  \"isRelative\" : false\n}",
+      "children" : "[\n  \"C9CBEF3D-8503-42BD-83A1-19EF17996F3A\"\n]"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{-527.28831374302922, 558.05530604050091}\",\n  \"identifier\" : \"470270B8-DBD4-4095-92B9-C5E1387E1B5F\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0.4943206365207376, -0.16857358870967754}\"\n  },\n  \"sourcePoint\" : \"{-393.63623091721388, 620.51113355934103}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{-0.5, 0}\"\n  }\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-393.63623091721388, 488.46100909146594}\",\n  \"angle\" : 0,\n  \"size\" : \"{163.64106333578772, 264.10024893575007}\",\n  \"identifier\" : \"2E5FFFB1-F031-483B-A502-EB74D5D5B382\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_17\",\n  \"value\" : \"Home (Ads)\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-393.63623091721388, 488.46100909146594}\",\n  \"angle\" : 0,\n  \"size\" : \"{163.64106333578772, 264.10024893575007}\",\n  \"identifier\" : \"2D0DAE3A-DE6E-4F2C-9FB8-15AE2224D9F1\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_65\",\n  \"value\" : \"Home (All Ads)\",\n  \"privateStyle\" : {\n    \"textColor\" : \"#FFFFFFFF\",\n    \"textAlignment\" : 2,\n    \"font\" : \"Helvetica,14.0\",\n    \"fillMode\" : 4\n  },\n  \"isRelative\" : false\n}",
+      "children" : "[\n  \"579A72EE-EDD9-444A-881D-F00824D24D0D\"\n]"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{-164.72196650797446, 860.27532503018767}\",\n  \"identifier\" : \"FA3BCD68-BEF6-4280-8CDD-D02D69162DEE\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0}\"\n  },\n  \"sourcePoint\" : \"{-608.17946833210613, 734.62575725059446}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0.5}\"\n  }\n}"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n    {\n      \"point\" : \"{-515.82634010584752, 602.57563278271948}\",\n      \"axis\" : 1\n    },\n    {\n      \"point\" : \"{-505.29374354748285, 646.69648302692758}\",\n      \"axis\" : 2\n    },\n    {\n      \"point\" : \"{-467.70625852147748, 690.81733327113557}\",\n      \"axis\" : 1\n    },\n    {\n      \"point\" : \"{-430.11877349547206, 668.44467892957914}\",\n      \"axis\" : 2\n    },\n    {\n      \"point\" : \"{-415.69943656739241, 646.07202458802271}\",\n      \"axis\" : 1\n    }\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{-401.28009963931277, 646.07202458802271}\",\n  \"identifier\" : \"DC2A3F2E-5BE1-4E3D-868A-023EDAC8BB9C\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0}\"\n  },\n  \"sourcePoint\" : \"{-526.35893666421225, 602.57563278271948}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0.5, 0}\"\n  }\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"group\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"rect\",\n  \"position\" : \"{-453.66376551800977, 133.42577085904455}\",\n  \"angle\" : 0,\n  \"size\" : \"{199.08405862049756, 143.78293122591489}\",\n  \"identifier\" : \"AC0534B5-5E6A-436C-9C84-D22FBD0F6A9B\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_11\",\n  \"privateStyle\" : {\n    \"fillMode\" : 0,\n    \"strokeMode\" : 0\n  },\n  \"isRelative\" : false\n}",
+      "children" : "[\n  \"D003159D-67E0-4264-97C4-C39CACB9EA44\",\n  \"596637C4-4CDA-46BA-B808-6F465A526322\",\n  \"1C3A32F5-7885-47C2-871C-FD857B43C235\"\n]"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{-311.81569924932001, 620.51113355934103}\",\n  \"identifier\" : \"A102DE6E-260A-4193-8460-6B58D5733749\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0}\"\n  },\n  \"sourcePoint\" : \"{-12.160385371276902, 355.5255083148445}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0}\"\n  }\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{-88.524021734913276, 340.5255083148445}\",\n  \"angle\" : 0,\n  \"size\" : \"{152.72727272727275, 29.999999999999996}\",\n  \"identifier\" : \"60DB0C70-DF1E-467E-B9B4-240A22C9EFFB\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"variant_1\",\n  \"value\" : \"is User \\\/ Is admin\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2,\n    \"textColor\" : \"#B4B4B4FF\"\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{-12.160385371276902, 355.5255083148445}\",\n  \"identifier\" : \"97258924-46C2-4FBA-B367-DCC539C99A93\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0}\"\n  },\n  \"sourcePoint\" : \"{-12.160385371276902, 287.2936842295901}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0.5}\"\n  }\n}"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{500.38789822288891, 601.51090660589102}\",\n  \"identifier\" : \"6A5FACBB-BED9-4408-9FF9-E440D199B370\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{-0.24409862231182833, -0.22159747112704084}\"\n  },\n  \"sourcePoint\" : \"{401.89600690567704, 673.47173396802248}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0.5, 0}\"\n  }\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{319.89204760697362, 476.42525937909431}\",\n  \"angle\" : 0,\n  \"size\" : \"{163.64106333578772, 264.10024893575007}\",\n  \"identifier\" : \"EDBE983A-B7D8-4D60-A706-A1083A1099ED\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_17\",\n  \"value\" : \"Home (Ads)\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{319.89204760697362, 476.42525937909431}\",\n  \"angle\" : 0,\n  \"size\" : \"{163.64106333578772, 264.10024893575007}\",\n  \"identifier\" : \"4908A036-FCA9-465E-974C-36A498539D48\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_17\",\n  \"value\" : \"Home (Ads)\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{576.79420517174151, 466.11234643253692}\",\n  \"angle\" : 0,\n  \"size\" : \"{99.542029310248779, 199.75663989962084}\",\n  \"identifier\" : \"10525345-79D9-4895-8794-D44613159315\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_26\",\n  \"value\" : \"Create Ad\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2\n  },\n  \"isRelative\" : false\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{319.89204760697362, 476.42525937909431}\",\n  \"angle\" : 0,\n  \"size\" : \"{163.64106333578772, 264.10024893575007}\",\n  \"identifier\" : \"DA70A572-172B-4582-9405-F1EA95EE9165\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_64\",\n  \"value\" : \"Home (All Ads)\",\n  \"privateStyle\" : {\n    \"font\" : \"Helvetica,14.0\",\n    \"textAlignment\" : 2,\n    \"fillMode\" : 4\n  },\n  \"isRelative\" : false\n}",
+      "children" : "[\n  \"FD7DA085-D68B-4A8D-B270-E017870F7CF5\"\n]"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{398.76242286102718, 706.58261470799346}\",\n  \"identifier\" : \"24C3DE8F-842E-46AB-9505-93BE1E978401\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0.4769153225806454, 0.15113904658319194}\"\n  },\n  \"sourcePoint\" : \"{520.54356002941233, 721.08069780803407}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0.5}\"\n  }\n}"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{380.9892160241875, 490.42278315613112}\",\n  \"identifier\" : \"C0E84865-0ACA-4498-8959-8812074DE748\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{-0.1266391382959674, -0.44699920263822962}\"\n  },\n  \"sourcePoint\" : \"{64.203250992359472, 355.5255083148445}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0.5, 0}\"\n  }\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{319.89204760697362, 808.47538384696952}\",\n  \"angle\" : 0,\n  \"size\" : \"{163.64106333578772, 264.10024893575007}\",\n  \"identifier\" : \"50A77723-31EE-474E-BDFC-A4EA5C13CBC8\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"style_51\",\n  \"value\" : \"Chats\",\n  \"privateStyle\" : {\n    \"textColor\" : \"#FFFFFFFF\",\n    \"textAlignment\" : 2,\n    \"font\" : \"Helvetica,14.0\",\n    \"fillMode\" : 4\n  },\n  \"isRelative\" : false\n}",
+      "children" : "[\n  \"95773D1E-2849-4204-A1B0-79C1769DDA8F\"\n]"
+    },
+    {
+      "class" : "connector",
+      "attrs" : "{\n  \"isRelative\" : false,\n  \"points\" : [\n\n  ],\n  \"shape\" : \"connector\",\n  \"targetPoint\" : \"{374.71123448198978, 813.04634164817776}\",\n  \"identifier\" : \"77B6BB32-1C9E-4C8A-B0E2-E216D375DA49\",\n  \"tag\" : 0,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"themeStyle\" : \"edge_11\",\n  \"isTemplate\" : false,\n  \"privateStyle\" : {\n    \"crossStyle\" : \"round\"\n  },\n  \"exitPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{-0.16500347921518671, -0.48269233815709028}\"\n  },\n  \"sourcePoint\" : \"{401.71257927486749, 740.52550831484439}\",\n  \"entryPoint\" : {\n    \"offset\" : \"{0, 0}\",\n    \"direction\" : 0,\n    \"location\" : \"{0, 0.5}\"\n  }\n}"
+    },
+    {
+      "class" : "dia-node",
+      "attrs" : "{\n  \"layout\" : \"container\",\n  \"lockAspectRatio\" : false,\n  \"shape\" : \"container1\",\n  \"position\" : \"{170, 610}\",\n  \"angle\" : 0,\n  \"size\" : \"{200, 41.051016629689009}\",\n  \"identifier\" : \"F5A5CE0B-FB40-4A15-843B-B01CD84BC712\",\n  \"tag\" : 0,\n  \"connectable\" : true,\n  \"isLocked\" : false,\n  \"visible\" : true,\n  \"isTemplate\" : false,\n  \"themeStyle\" : \"variant_1\",\n  \"value\" : \"Filters\",\n  \"privateStyle\" : {\n    \"textAlignment\" : 2,\n    \"font\" : \"Helvetica,14.0\",\n    \"textColor\" : \"#B4B4B4FF\"\n  },\n  \"isRelative\" : false\n}"
+    }
+  ],
+  "frame" : [
+    [
+      -787,
+      0
+    ],
+    [
+      1614,
+      1169
+    ]
+  ],
+  "terminals" : {
+    "77B6BB32-1C9E-4C8A-B0E2-E216D375DA49" : [
+      "DA70A572-172B-4582-9405-F1EA95EE9165",
+      "50A77723-31EE-474E-BDFC-A4EA5C13CBC8"
+    ],
+    "649EDEA3-1CBD-467B-8234-7DF0BA098B35" : [
+      "2F7E127D-608C-4282-9FB2-8B7A88BB1F3C",
+      "6B52711F-1851-40FB-AA5F-E50C003B13B7"
+    ],
+    "9E54D3BE-4425-4C3D-BEFF-FB81C1FD6BD8" : [
+      "8DBED506-ADA5-4FE4-B4A4-B62F91667876",
+      "C32B1344-98CB-4861-98D1-4E471478BC2D"
+    ],
+    "456376BF-DF61-4484-9A23-D9C6AA575F83" : [
+      "C32B1344-98CB-4861-98D1-4E471478BC2D",
+      "8DBED506-ADA5-4FE4-B4A4-B62F91667876"
+    ],
+    "DC2A3F2E-5BE1-4E3D-868A-023EDAC8BB9C" : [
+      "3ECAC33E-D19F-48D3-AB06-D30868DC92D2",
+      "null"
+    ],
+    "24C3DE8F-842E-46AB-9505-93BE1E978401" : [
+      "10525345-79D9-4895-8794-D44613159315",
+      "4908A036-FCA9-465E-974C-36A498539D48"
+    ],
+    "470270B8-DBD4-4095-92B9-C5E1387E1B5F" : [
+      "2F7E127D-608C-4282-9FB2-8B7A88BB1F3C",
+      "3ECAC33E-D19F-48D3-AB06-D30868DC92D2"
+    ],
+    "FA3BCD68-BEF6-4280-8CDD-D02D69162DEE" : [
+      "3ECAC33E-D19F-48D3-AB06-D30868DC92D2",
+      "null"
+    ],
+    "A102DE6E-260A-4193-8460-6B58D5733749" : [
+      "60DB0C70-DF1E-467E-B9B4-240A22C9EFFB",
+      "2F7E127D-608C-4282-9FB2-8B7A88BB1F3C"
+    ],
+    "974DB65D-6CBE-4908-8735-B80CF18D038F" : [
+      "06595F89-CC14-42DB-89EE-E2DCB9C6CF54",
+      "2F7E127D-608C-4282-9FB2-8B7A88BB1F3C"
+    ],
+    "C0E84865-0ACA-4498-8959-8812074DE748" : [
+      "60DB0C70-DF1E-467E-B9B4-240A22C9EFFB",
+      "DA70A572-172B-4582-9405-F1EA95EE9165"
+    ],
+    "A9DAD048-CB5A-4964-BFCB-416663AD6155" : [
+      "2F7E127D-608C-4282-9FB2-8B7A88BB1F3C",
+      "06595F89-CC14-42DB-89EE-E2DCB9C6CF54"
+    ],
+    "01B2B195-CC6C-4FF5-98A4-DC52A448C0ED" : [
+      "6B52711F-1851-40FB-AA5F-E50C003B13B7",
+      "2F7E127D-608C-4282-9FB2-8B7A88BB1F3C"
+    ],
+    "97258924-46C2-4FBA-B367-DCC539C99A93" : [
+      "8DBED506-ADA5-4FE4-B4A4-B62F91667876",
+      "60DB0C70-DF1E-467E-B9B4-240A22C9EFFB"
+    ],
+    "6A5FACBB-BED9-4408-9FF9-E440D199B370" : [
+      "4908A036-FCA9-465E-974C-36A498539D48",
+      "10525345-79D9-4895-8794-D44613159315"
+    ]
+  },
+  "design" : {
+    "connectorPathStyle" : "rounded",
+    "themeName" : "dark6",
+    "paper" : {
+      "rightMargin" : 20,
+      "bottomMargin" : 20,
+      "topMargin" : 20,
+      "name" : "a4",
+      "leftMargin" : 20,
+      "ori" : true
+    },
+    "autoFrame" : true,
+    "showPageMarker" : true
+  },
+  "showsGrids" : true,
+  "version" : "100"
+}
